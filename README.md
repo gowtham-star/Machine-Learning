@@ -1,4 +1,4 @@
-# Machine-Learning
+# Tweet classification using logistic regression
 
 Problem Statement:
 
