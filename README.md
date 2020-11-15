@@ -12,3 +12,10 @@ Solution :
 Created a simple logistice regression model using count vectorizer for feature extraction
 
 Dataset taken from kaggle competetion
+https://www.kaggle.com/c/nlp-getting-started/overview
+
+train_csv file is used to train the logistic regression model
+
+test_csv file is used to test the model with real data
+
+output_csv file the  which has the final ouput provided by the model
